@@ -1,0 +1,30 @@
+{
+    "id": "vodka_soda",
+    "name": "Vodka Soda",
+    "ingredients": [
+        {
+            "ingredientId": "vodka",
+            "quantity": 2,
+            "unit": "oz",
+            "required": true
+        },
+        {
+            "ingredientId": "club_soda",
+            "quantity": 5,
+            "unit": "oz",
+            "required": true
+        },
+        {
+            "ingredientId": "lemon",
+            "quantity": 1,
+            "unit": "ct",
+            "required": false
+        }
+    ],
+    "steps": [
+        "Fill Glass with Ice",
+        "Add Vodka",
+        "Add Club Soda",
+        "Lightly Stir"
+    ]
+}
